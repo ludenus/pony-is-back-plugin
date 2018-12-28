@@ -1,0 +1,12 @@
+
+.pony {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.center {
+  text-align: center;
+  vertical-align: middle;
+}

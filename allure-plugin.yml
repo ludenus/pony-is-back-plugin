@@ -1,0 +1,7 @@
+id: pony-is-back
+name: Pony is back
+description: Replace 100% green pie chart with pony picture as it was in allure1
+jsFiles:
+  - index.js
+cssFiles:
+  - styles.css
